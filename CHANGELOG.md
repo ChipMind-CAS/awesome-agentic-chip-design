@@ -2,4 +2,4 @@
 
 ## 2026-10-30
 
-First commit.
+- Added the Agentic Chip Design survey, its citation, and a News entry.

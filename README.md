@@ -1,7 +1,7 @@
 # Awesome Agentic Chip Design
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Papers](https://img.shields.io/badge/papers-152-2563eb)](#contents)
+[![Papers](https://img.shields.io/badge/papers-153-2563eb)](#contents)
 [![Last updated](https://img.shields.io/badge/last_updated-2026--10--30-0f766e)](CHANGELOG.md)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/license-CC0_1.0-lightgrey)](LICENSE)
@@ -12,11 +12,32 @@ Agentic chip design uses large language model (LLM) agents to plan design tasks,
 
 **[Start reading](#start-reading)** · **[Browse papers](#contents)** · **[Explore industry](#industrial-systems-and-reports)** · **[Contribute](CONTRIBUTING.md)**
 
+## 📰 News
+
+- **2026-10** — We released [*Agentic Chip Design: A Survey of Architectures, Design Methodologies, and Evaluation*](https://www.alphaxiv.org/abs/2610.agentic-chip-design-survey), which organizes agentic chip-design research by design tasks, agent architectures and execution systems, EDA algorithm and tool development, and benchmarks and evaluation.
+
+## 📚 Citation
+
+If this collection or the survey is useful, please cite:
+
+Paper: [Agentic Chip Design: A Survey of Architectures, Design Methodologies, and Evaluation](https://www.alphaxiv.org/abs/2610.agentic-chip-design-survey)
+
+```bibtex
+@misc{xing-agentic-chip-design-survey,
+  author = {Xing, Mingzhe and Dai, Bowei and Ye, Xuanzhe and Zeng, Boyuan and Li, Ziqi and Chen, Shudong and Li, Bing and Shi, Hailong and Li, Zhiqiang and Jia, Hanbo and Di, Zhixiong and Jia, Tianyu and Yao, Zhicheng and Zhang, Bin and Xu, Zhiwei and Liu, Peipei and Tian, Chang and Mao, Hangyu},
+  keywords = {Hardware Architecture (cs.AR), Artificial Intelligence (cs.AI), Agentic Chip Design, Large Language Models, Electronic Design Automation, EDA, Chip Design Agents},
+  title = {Agentic Chip Design: A Survey of Architectures, Design Methodologies, and Evaluation},
+  publisher = {arXiv}
+}
+```
+
 ## Contents
 
 Browse by design task, model capability, agent architecture, or evaluation setting.
 
 - [Awesome Agentic Chip Design](#awesome-agentic-chip-design)
+  - [📰 News](#-news)
+  - [📚 Citation](#-citation)
   - [Contents](#contents)
   - [Start Reading](#start-reading)
   - [Recent Papers](#recent-papers)
@@ -104,6 +125,12 @@ Selected papers from October 2026. Dates refer to the initial paper version; col
 Start with perspectives and surveys on agentic chip design, LLM-based EDA, and circuit foundation models. These works introduce the research landscape and its connections to model capabilities and design workflows.
 
 <a id="surveys"></a>
+
+<a id="paper-2610-agentic-chip-design-survey"></a>
+
+- **[Agentic Chip Design: A Survey of Architectures, Design Methodologies, and Evaluation](https://www.alphaxiv.org/abs/2610.agentic-chip-design-survey)**
+  `Preprint 2026-10` · `Survey`
+  Organizes agentic chip-design methods by design tasks, agent architectures and execution systems, EDA software development, and benchmarks and evaluation methods.
 
 <a id="paper-2606-19795"></a>
 
